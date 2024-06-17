@@ -10,4 +10,3 @@ export const omit =
 
   // return newObj;
 };
-console.log(1);
