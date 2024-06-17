@@ -9,4 +9,5 @@ export const omit =
   }, {} as Omit<T, K>)
 
   // return newObj;
-};
+  };
+console.log(omit);
